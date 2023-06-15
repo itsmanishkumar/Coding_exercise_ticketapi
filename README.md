@@ -43,6 +43,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 <img width="1722" alt="Screenshot 2023-06-15 at 7 40 11 PM" src="https://github.com/itsmanishkumar/Coding_exercise_ticketapi/assets/135205829/cfc08eac-3ef3-439e-8b40-260e48b5f494">
 
+<img width="1728" alt="Screenshot 2023-06-15 at 7 42 42 PM" src="https://github.com/itsmanishkumar/Coding_exercise_ticketapi/assets/135205829/4688c720-8ff8-4ab3-9b9c-46d05bb061eb">
+
+<img width="1722" alt="Screenshot 2023-06-15 at 7 40 11 PM" src="https://github.com/itsmanishkumar/Coding_exercise_ticketapi/assets/135205829/cfc08eac-3ef3-439e-8b40-260e48b5f494">
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
